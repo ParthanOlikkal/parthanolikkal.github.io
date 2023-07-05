@@ -110,8 +110,8 @@ author:
   location         : "Baltimore, MD"
   email            : "polikka1@umbc.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:polikka1@umbc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
