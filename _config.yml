@@ -149,6 +149,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+     - label: "Google Scholar"
+      icon: "fad fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=A7I6gMgAAAAJ&hl=en"
 
 
 # Reading Files
