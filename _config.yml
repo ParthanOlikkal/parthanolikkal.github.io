@@ -108,6 +108,7 @@ author:
   avatar           : "/assets/images/photo.png"
   bio              : "**PhD Candidate**"
   location         : "UMBC, Baltimore, MD"
+  email            : "mailto:polikka1@umbc.edu"
   links:
     - #label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
