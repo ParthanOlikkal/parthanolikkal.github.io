@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Parthan Olikkal"
+  name             : "Parthan"
   avatar           : "/assets/images/photo.png"
-  bio              : "I am an **PhD Candidate** at **University of Maryland Baltimore County**."
+  bio              : "**PhD Candidate** at **UMBC**."
   location         : "Baltimore, MD"
   links:
     - #label: "Email"
@@ -118,14 +118,14 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/parthan-olikkal/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      icon: "fad fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=A7I6gMgAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ParthanOlikkal"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
       # url: "https://instagram.com/"
 
 # Site Footer
