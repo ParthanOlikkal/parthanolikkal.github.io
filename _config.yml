@@ -108,7 +108,6 @@ author:
   avatar           : "/assets/images/photo.png"
   bio              : "I am an **PhD Candidate** at **University of Maryland Baltimore County**."
   location         : "Baltimore, MD"
-  email            : "polikka1@umbc.edu"
   links:
     - #label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
