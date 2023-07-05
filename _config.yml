@@ -120,7 +120,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/parthan-olikkal"
     - label: "Google Scholar"
-      icon: "fad fa-graduation-cap"
+      icon: "far fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=A7I6gMgAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -141,6 +141,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ParthanOlikkal"
+    - label: "Google Scholar"
+      icon: "fad fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=A7I6gMgAAAAJ&hl=en"
+
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -150,10 +154,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-     - label: "Google Scholar"
-      icon: "fad fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=A7I6gMgAAAAJ&hl=en"
-
+     
 
 # Reading Files
 include:
