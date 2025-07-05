@@ -53,7 +53,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ## Publications
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.85em;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;">
 
   <!-- LEFT: Image -->
   <div style="flex: 1 1 300px; min-width: 250px;">
@@ -70,7 +70,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
     <h3 style="margin-top: 0;">A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers</h3>
 
-    <p style="color: #555;">
+    <p style="color: #555;font-style:0.8em">
       This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
     </p>
 
