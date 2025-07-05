@@ -60,12 +60,13 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 <br>2024 – <em>IEEE Robotics and Biomimetics</em>
 </p>
 
-### A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers
+<strong>A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers</strong>
 
 <img src="/assets/images/EEG-EMG.gif" alt="Paper teaser" style="max-width: 100%; border-radius: 8px; margin: 1rem 0;">
 
+<p style="font-size: 0.8em; color: #555;">
 This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
-
+</p>
 <div class="btn-links">
   <a class="btn btn-outline-primary btn-page-header btn-sm" href="" target="_blank" rel="noopener"> PDF </a>
   <a class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" href="#" target="_blank" rel="noopener"> Cite </a>
