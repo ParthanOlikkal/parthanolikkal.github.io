@@ -15,31 +15,31 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
 
 ---
+<hr>
+
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between;">
 
-<div style="flex: 1; min-width: 250px;">
-  
-### Interests
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Interests</h3>
+    <ul>
+      <li>Brain-Computer Interfaces (BCI)</li>
+      <li>Reinforcement Learning (RL)</li>
+      <li>EMG and EEG-based motor decoding</li>
+      <li>Human-Robot Interaction</li>
+      <li>Motion & Synergy Analysis</li>
+    </ul>
+  </div>
 
-- Brain-Computer Interfaces (BCI)
-- Reinforcement Learning (RL)
-- EMG and EEG-based motor decoding
-- Human-Robot Interaction
-- Motion & Synergy Analysis
-
-</div>
-
-<div style="flex: 1; min-width: 250px; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
-  
-### Education
-
-- 🎓 **Ph.D. in Computer Science**     _2021 – Present_
-- *University of Maryland, Baltimore County*    
-- 🎓 **M.S. in Computer Science**      _2019 – 2021_
--  *University of Maryland, Baltimore County*
-- 🎓 **B.Tech in Computer Science**    _2013 – 2017_
--  *Cochin University of Science and Technology* 
-
+  <div style="flex: 1; min-width: 250px;">
+    <h3>Education</h3>
+    <ul>
+      <li>🎓 <strong>Ph.D. in Computer Science</strong> (2021 – Present)<br>
+          <em>University of Maryland, Baltimore County</em></li>
+      <li>🎓 <strong>M.S. in Computer Science</strong> (2019 – 2021)<br>
+          <em>University of Maryland, Baltimore County</em></li>
+      <li>🎓 <strong>B.Tech in Computer Science</strong> (2013 – 2017)<br>
+          <em>Cochin University of Science and Technology</em></li>
+    </ul>
   </div>
 
 </div>
