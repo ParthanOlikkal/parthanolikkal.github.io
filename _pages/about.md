@@ -7,7 +7,6 @@ classes: wide
 sidebar:
   nav: false
 ---
-<div style="font-size: 0.9em; line-height:1.7;">
 
 I am a Ph.D. Candidate at the **University of Maryland, Baltimore County (UMBC)**, advised by <a href="https://www.csee.umbc.edu/ramana-vinjamuri/" target="_blank">Dr. Ramana Vinjamuri</a>. My research lies at the intersection of **Brain-Computer Interfaces (BCI), neural signal processing, and reinforcement learning**. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
 
@@ -33,21 +32,19 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 <div style="flex: 1; min-width: 250px;">
   <h3>Education</h3>
   <ul>
-    <li>🎓 <strong>Ph.D. in Computer Science</strong> (2021 – Present)<br>
+    <li>🎓 <strong>Ph.D. in Computer Science</strong> <span style="font-size: 0.8em;">(2021 – Present)<br>
         <span style="font-size: 0.8em;">
         University of Maryland, Baltimore County
         </span></li>
-    <li>🎓 <strong>M.S. in Computer Science</strong> (2019 – 2021)<br>
+    <li>🎓 <strong>M.S. in Computer Science</strong> <span style="font-size: 0.8em;">(2019 – 2021)<br>
         <span style="font-size: 0.8em;">
         University of Maryland, Baltimore County
         </span></li>
-    <li>🎓 <strong>B.Tech in Computer Science</strong> (2013 – 2017)<br>
+    <li>🎓 <strong>B.Tech in Computer Science</strong> <span style="font-size: 0.8em;">(2013 – 2017)<br>
         <span style="font-size:0.8em;">
         Cochin University of Science and Technology
         </span></li>
   </ul>
-</div>
-
 </div>
 
 </div>
