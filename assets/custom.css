@@ -1,6 +1,0 @@
-.author__avatar {
-  width: 160px !important;   /* increase size from default 100px */
-  height: 160px !important;
-  border-radius: 50%;        /* keeps it circular */
-  object-fit: cover;
-}
