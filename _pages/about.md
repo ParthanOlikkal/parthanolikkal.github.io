@@ -18,7 +18,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between; font-size:0.9em">
 
   <div style="flex: 1; min-width: 250px;">
     <h3>Interests</h3>
