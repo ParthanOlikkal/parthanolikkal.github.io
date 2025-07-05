@@ -57,49 +57,27 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "ParthanOlikkal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. Candidate @ UMBC | BCI, RL, Robotics"
+  location: "Baltimore, MD"
+  email : "polikka1@umbc.edu"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@umbc.edu"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/yourhandle"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourhandle"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/yourprofile"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/assets/docs/Parthan_CV.pdf"
