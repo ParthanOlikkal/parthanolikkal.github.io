@@ -168,7 +168,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ---
 
-## 🎥 Project
+<h2 id="projects">Project</h2> 
 
 ## Humanoid Control using RGB camera
 
