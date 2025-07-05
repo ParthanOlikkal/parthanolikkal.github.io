@@ -83,7 +83,9 @@ author:
       icon: "fas fa-file-pdf"
       url: "/assets/docs/Parthan_CV.pdf"
 
-      
+sass:
+  style: compressed
+
 defaults:
   - scope:
       path: ""
@@ -91,3 +93,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      css: ""assets/css/custom.css"
