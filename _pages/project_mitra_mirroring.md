@@ -11,8 +11,8 @@ classes: wide
 
   <!-- LEFT: Video -->
   <div style="flex: 1 1 300px; min-width: 300px;">
-    <video width="100%" controls poster="/assets/images/gesture_poster.jpg">
-      <source src="/assets/videos/gesture_demo.mp4" type="video/mp4">
+    <video width="100%" controls poster="/assets/images/Mitra_Mirror.jpg">
+      <source src="/assets/video/Mitra_Mirroring.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
