@@ -1,7 +1,8 @@
-/* Override avatar size in sidebar */
+/* Enlarge and shape the avatar */
 .author__avatar {
   width: 180px !important;
   height: 180px !important;
-  border-radius: 50%;
-  object-fit: cover;
+  border-radius: 50% !important; /* Makes it a circle */
+  object-fit: cover !important; /* Prevents oval stretch */
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); /* Optional: subtle glow */
 }
