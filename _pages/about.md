@@ -61,7 +61,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   </div>
 
   <!-- RIGHT: Text -->
-  <div style="flex: 2 1 400px; min-width: 250px;">
+  <div style="flex: 2 1 400px; min-width: 250px; font-size:0.8em">
 
     <p style="font-size: 0.9em; color: #555;">
       <strong>Parthan Olikkal</strong>, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
