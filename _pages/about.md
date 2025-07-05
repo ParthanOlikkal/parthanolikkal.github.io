@@ -53,7 +53,12 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ## Publications
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;">
+<a href="/publication/olikkal2024robio" style="text-decoration: none; color: inherit;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
+            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
+            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
+     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
 
   <!-- LEFT: Image -->
   <div style="flex: 1 1 300px; min-width: 250px;">
