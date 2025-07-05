@@ -1,5 +1,5 @@
 ---
-title: "Biography"
+title: "ParthanOlikkal"
 layout: single
 permalink: /
 author_profile: true
@@ -66,17 +66,11 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 This paper presents a novel reinforcement learning framework for adaptive dance therapy using multimodal brain-computer interface signals (EEG + EMG). The system uses human-in-the-loop learning to align user intent with a robot dance partner for mental health support. It demonstrates improved engagement and synchronization in neurorehabilitation.
 
-<p>
-  <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/pdf" target="_blank">
-    <button>PDF</button>
-  </a>
-  <a href="https://doi.org/10.3389/fnhum.2024.1391531" target="_blank">
-    <button>DOI</button>
-  </a>
-  <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/full#references" target="_blank">
-    <button>Cite</button>
-  </a>
-</p>
+<div class="btn-links">
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="" target="_blank" rel="noopener"> PDF </a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" href="#" target="_blank" rel="noopener"> Cite </a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="" target="_blank" rel="noopener"> DOI </a>
+</div>
 
 </div>
 
