@@ -158,7 +158,36 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   </div>
 </div>
 
+---
 
+## 🎥 Project: Gesture-to-Robot Synergy Translation
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 1rem;">
+
+  <!-- LEFT: Video -->
+  <div style="flex: 1 1 300px; min-width: 300px;">
+    <video width="100%" controls poster="/assets/images/gesture_poster.jpg">
+      <source src="/assets/videos/gesture_demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <!-- RIGHT: Text -->
+  <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
+    <p>
+      This project demonstrates real-time synergy-based control of a humanoid robot (Mitra) using reconstructed hand gestures.
+      Using a single RGB camera and the MediaPipe framework, 33 static hand gestures were captured and processed into joint angular velocities.
+      Dimensionality reduction techniques helped extract key kinematic synergies, which were used to reconstruct hand postures with 95.7% accuracy.
+    </p>
+    <p>
+      The resulting synergy-driven control commands were mapped to Mitra’s actuators in real time, showing promise for intuitive human-robot collaboration in rehabilitation and assistive robotics.
+    </p>
+    <p>
+      🔗 <a href="/publication/olikkal2024robio/">Related Publication</a>
+    </p>
+  </div>
+
+</div>
 
 <script>
 function openBibModal(bibURL, modalID) {
