@@ -1,0 +1,7 @@
+/* Override avatar size in sidebar */
+.author__avatar {
+  width: 180px !important;
+  height: 180px !important;
+  border-radius: 50%;
+  object-fit: cover;
+}
