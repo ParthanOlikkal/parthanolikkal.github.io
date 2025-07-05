@@ -14,7 +14,6 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
 
----
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between;">
@@ -34,15 +33,15 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   <h3>Education</h3>
   <ul>
     <li>🎓 <strong>Ph.D. in Computer Science</strong> (2021 – Present)<br>
-        <span style="font-family: Georgia, serif; font-style: italic;">
+        <span style="font-size: 0.8em;">
         University of Maryland, Baltimore County
         </span></li>
     <li>🎓 <strong>M.S. in Computer Science</strong> (2019 – 2021)<br>
-        <span style="font-family: Georgia, serif; font-style: italic;">
+        <span style="font-size: 0.8em;">
         University of Maryland, Baltimore County
         </span></li>
     <li>🎓 <strong>B.Tech in Computer Science</strong> (2013 – 2017)<br>
-        <span style="font-family: Georgia, serif; font-style: italic;">
+        <span style="font-size:0.8em;">
         Cochin University of Science and Technology
         </span></li>
   </ul>
