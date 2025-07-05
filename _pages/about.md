@@ -8,12 +8,14 @@ sidebar:
   nav: false
 ---
 
+<div style="font-size: 0.9em;>
+
 I am a Ph.D. Candidate at the <a href="https://umbc.edu/" target="_blank"><strong>University of Maryland Baltimore County</strong></a>, advised by <a href="https://www.csee.umbc.edu/ramana-vinjamuri/" target="_blank">Dr. Ramana Vinjamuri</a>. My research lies at the intersection of **Brain-Computer Interfaces, Reinforcement Learning and Robotics**. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
 
 Before joining UMBC, I worked on gesture decoding systems for prosthetics and interactive virtual environments. My work emphasizes synergy-driven analysis, multimodal control, and human-in-the-loop reinforcement learning.
 
 📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
-
+</div>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between;">
@@ -92,7 +94,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   <div style="background: #fff; margin: 10% auto; padding: 20px; border-radius: 10px; width: 90%; max-width: 700px; position: relative;">
     <h3>BibTeX Citation</h3>
     <textarea id="bibtexText-robio2024" readonly style="width: 100%; height: 300px; padding: 10px; font-family: monospace;
-              border: 1px solid #ccc; border-radius: 6px;">Loading...</textarea>
+              border: 1px solid #ccc; border-radius: 6px; color: black; background-color: white">Loading...</textarea>
     <div style="margin-top: 1rem;">
       <button onclick="copyBibTex('bibtexText-robio2024')" class="btn btn-sm" style="margin-right: 10px;">📋 Copy</button>
       <a href="/assets/bib/Olikkal_2024_ROBIO.bib" download class="btn btn-sm" style="margin-right: 10px;">⬇️ Download</a>
