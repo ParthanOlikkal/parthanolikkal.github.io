@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-![Robot Demo](/assets/images/robot_poses.png)
+![Robot Demo](/assets/images/EEG_EMG_Robot.png)
 
 ### Citation  
 **Parthan Olikkal**, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
