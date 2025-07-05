@@ -57,7 +57,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 <p style="font-size: 0.9em; color: #555;">
 <strong>Parthan Olikkal</strong>, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
-<br>2024 – <em>IEEE Robotics and Biomimetics 2024</em>
+<br>2024 – <em>IEEE Robotics and Biomimetics</em>
 </p>
 
 <img src="/assets/images/EEG-EMG.gif" alt="Paper teaser" style="max-width: 100%; border-radius: 8px; margin: 1rem 0;">
