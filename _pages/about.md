@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: ""
 layout: single
 permalink: /
 author_profile: true
@@ -29,7 +29,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 </div>
 
-<div style="flex: 1; min-width: 250px;">
+<div style="flex: 1; min-width: 250px; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; background: #f9f9f9;">
   
 ### Education
 
