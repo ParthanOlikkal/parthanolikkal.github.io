@@ -170,7 +170,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 
   <!-- LEFT: Video -->
-  <div style="flex: 1 1 500px; min-width: 400px;">
+  <div style="flex: 1 1 350px; min-width: 300px;">
     <img src="/assets/video/Mitra_Mirroring.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
   </div>
 
