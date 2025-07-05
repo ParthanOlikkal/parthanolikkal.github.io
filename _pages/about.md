@@ -76,7 +76,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
     <div class="btn-links" style="margin-top: 1rem;">
       <a class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" href="/assets/docs/your-citation.bib" target="_blank" rel="noopener">Cite</a>
-      <a class="btn btn-outline-primary btn-page-header btn-sm" href="10.1109/ROBIO64047.2024.10907308" target="_blank" rel="noopener">DOI</a>
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ROBIO64047.2024.10907308" target="_blank" rel="noopener">DOI</a>
     </div>
 
   </div>
