@@ -22,8 +22,8 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   <div style="flex: 1; min-width: 250px;">
     <h3>Interests</h3>
     <ul>
-      <li>Brain-Computer Interfaces (BCI)</li>
-      <li>Reinforcement Learning (RL)</li>
+      <li>Brain-Computer Interfaces</li>
+      <li>Reinforcement Learning</li>
       <li>EMG and EEG-based motor decoding</li>
       <li>Human-Robot Interaction</li>
       <li>Motion & Synergy Analysis</li>
