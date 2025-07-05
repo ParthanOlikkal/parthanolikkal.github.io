@@ -122,6 +122,9 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   <!-- LEFT: Image -->
   <div style="flex: 1 1 300px; min-width: 250px;">
     <img src="/assets/images/Biomimetic_Robot.jpg" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
+    <p style="color: #555; font-style:italic; font-size:0.75em">
+    Key Areas - Computer Vision, Kinematic Synergy, Robotics & Human-Robot Interaction
+    </p>
   </div>
 
   <!-- RIGHT: Text -->
