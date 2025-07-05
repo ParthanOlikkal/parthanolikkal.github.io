@@ -53,25 +53,31 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ## Publications
 
-<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem; background: #fafafa; font-size:0.8em;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem; border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.85em;">
 
-<p style="font-size: 0.9em; color: #555;">
-<strong>Parthan Olikkal</strong>, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
-<br>2024 – <em>IEEE Robotics and Biomimetics</em>
-</p>
+  <!-- LEFT: Image -->
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="/assets/images/EEG-EMG.gif" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
+  </div>
 
-<strong>A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers</strong>
+  <!-- RIGHT: Text -->
+  <div style="flex: 2 1 400px; min-width: 250px;">
 
-<img src="/assets/images/EEG-EMG.gif" alt="Paper teaser" style="max-width: 100%; border-radius: 8px; margin: 1rem 0;">
+    <p style="font-size: 0.9em; color: #555;">
+      <strong>Parthan Olikkal</strong>, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
+      <br>2024 – <em>IEEE Robotics and Biomimetics</em>
+    </p>
 
-<p style="font-size: 0.8em; color: #555;">
-This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
-</p>
-<div class="btn-links">
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="" target="_blank" rel="noopener"> PDF </a>
-  <a class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" href="#" target="_blank" rel="noopener"> Cite </a>
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="" target="_blank" rel="noopener"> DOI </a>
+    <h3 style="margin-top: 0;">A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers</h3>
+
+    <p style="color: #555;">
+      This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
+    </p>
+
+    <div class="btn-links" style="margin-top: 1rem;">
+      <a class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" href="/assets/docs/your-citation.bib" target="_blank" rel="noopener">Cite</a>
+      <a class="btn btn-outline-primary btn-page-header btn-sm" href="10.1109/ROBIO64047.2024.10907308" target="_blank" rel="noopener">DOI</a>
+    </div>
+
+  </div>
 </div>
-
-</div>
-
