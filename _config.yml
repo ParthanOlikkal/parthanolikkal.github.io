@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "ParthanOlikkal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate @ UMBC | BCI, RL, Robotics"
+  bio    : "Ph.D. Candidate @ UMBC"
   location: "Baltimore, MD"
   email : "polikka1@umbc.edu"
   links:
