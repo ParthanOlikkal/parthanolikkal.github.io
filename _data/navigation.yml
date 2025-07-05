@@ -12,7 +12,7 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /publications/
+    url: "#publications"
   - title: "Projects"
     url: /projects/project_mitra_mirroring/
   - title: "Teaching"
