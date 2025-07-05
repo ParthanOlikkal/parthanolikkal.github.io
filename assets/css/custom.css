@@ -6,3 +6,7 @@
   display: block;
   margin: 0 auto;
 }
+
+html {
+  scroll-behavior: smooth;
+}
