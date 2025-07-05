@@ -162,7 +162,12 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ## 🎥 Project: Humanoid Control using RGB camera
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-top: 1rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
+            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
+            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
+     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
+
 
   <!-- LEFT: Video -->
   <div style="flex: 1 1 300px; min-width: 300px;">
