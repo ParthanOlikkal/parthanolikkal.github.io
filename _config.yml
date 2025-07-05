@@ -83,6 +83,11 @@ author:
       icon: "fas fa-file-pdf"
       url: "/assets/docs/Parthan_CV.pdf"
 
+collections:
+  publications:
+    output: true
+    permalink: /publication/:name/
+
 sass:
   style: compressed
 
