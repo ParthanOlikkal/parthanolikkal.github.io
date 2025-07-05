@@ -171,10 +171,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
   <!-- LEFT: Video -->
   <div style="flex: 1 1 300px; min-width: 300px;">
-    <video width="100%" controls poster="/assets/images/Mitra_Mirror.png">
-      <source src="/assets/video/Mitra_Mirroring.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    <img src="/assets/video/Mitra_Mirroring.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
   </div>
 
   <!-- RIGHT: Text -->
@@ -187,9 +184,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
     <p>
       The resulting synergy-driven control commands were mapped to Mitra’s actuators in real time, showing promise for intuitive human-robot collaboration in rehabilitation and assistive robotics.
     </p>
-    <p>
-      🔗 <a href="/publication/olikkal2024robio/">Related Publication</a>
-    </p>
+
   </div>
 
 </div>
