@@ -81,7 +81,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
       This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
     </p>
 
-    <p style="color: #555;font-style:0.75em">
+    <p style="color: #555;font-style:0.75em; font-style:italic">
     Key Areas - Multimodal Signal Processing, Deep Learning (Transformers), Robotics & Human-Robot Interaction
     </p>
 
