@@ -116,7 +116,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
   <!-- LEFT: Image -->
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/EEG_EMG_Robot.png" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/images/Biomimetic_Robot.jpg" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
   </div>
 
   <!-- RIGHT: Text -->
@@ -135,22 +135,22 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 <!-- Button Group -->
 <div class="btn-links" style="margin-top: 1rem; font-size:1em;">
-  <button onclick="openBibModal('/assets/bib/Olikkal_2024_ROBIO.bib', 'bibModal-robio2024')" 
+  <button onclick="openBibModal('/assets/bib/Olikkal2024Biomimetic.bib', 'bibModal-biomimetic2024')" 
           class="btn btn-outline-primary btn-page-header btn-sm">Cite</button>
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ROBIO64047.2024.10907308" target="_blank" rel="noopener">DOI</a>
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fnhum.2024.1391531" target="_blank" rel="noopener">DOI</a>
 </div>
 
 <!-- Modal -->
-<div id="bibModal-robio2024" style="display:none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%;
+<div id="bibModal-biomimetic2024" style="display:none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%;
      background-color: rgba(0,0,0,0.5); text-align: center;">
   <div style="background: #fff; margin: 10% auto; padding: 20px; border-radius: 10px; width: 90%; max-width: 700px; position: relative;">
     <h3>BibTeX Citation</h3>
-    <textarea id="bibtexText-robio2024" readonly style="width: 100%; height: 300px; padding: 10px; font-family: monospace;
+    <textarea id="bibtexText-biomimetic2024" readonly style="width: 100%; height: 300px; padding: 10px; font-family: monospace;
               border: 1px solid #ccc; border-radius: 6px; color: black; background-color: white">Loading...</textarea>
     <div style="margin-top: 1rem;">
-      <button onclick="copyBibTex('bibtexText-robio2024')" class="btn btn-sm" style="margin-right: 10px;">📋 Copy</button>
-      <a href="/assets/bib/Olikkal_2024_ROBIO.bib" download class="btn btn-sm" style="margin-right: 10px;">⬇️ Download</a>
-      <button onclick="document.getElementById('bibModal-robio2024').style.display='none'" class="btn btn-sm">❌ Close</button>
+      <button onclick="copyBibTex('bibtexText-biomimetic2024')" class="btn btn-sm" style="margin-right: 10px;">📋 Copy</button>
+      <a href="/assets/bib/Olikkal2024Biomimetic.bib" download class="btn btn-sm" style="margin-right: 10px;">⬇️ Download</a>
+      <button onclick="document.getElementById('bibModal-biomimetic2024').style.display='none'" class="btn btn-sm">❌ Close</button>
     </div>
   </div>
 </div>
