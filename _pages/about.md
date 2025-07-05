@@ -8,7 +8,7 @@ sidebar:
   nav: false
 ---
 
-I am a Ph.D. Candidate at the <a href="[https://www.csee.umbc.edu/ramana-vinjamuri/](https://umbc.edu/)" target="_blank"><strong>University of Maryland Baltimore County</strong></a>, advised by <a href="https://www.csee.umbc.edu/ramana-vinjamuri/" target="_blank">Dr. Ramana Vinjamuri</a>. My research lies at the intersection of **Brain-Computer Interfaces (BCI), neural signal processing, and reinforcement learning**. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
+I am a Ph.D. Candidate at the <a href="https://umbc.edu/" target="_blank"><strong>University of Maryland Baltimore County</strong></a>, advised by <a href="https://www.csee.umbc.edu/ramana-vinjamuri/" target="_blank">Dr. Ramana Vinjamuri</a>. My research lies at the intersection of **Brain-Computer Interfaces (BCI), neural signal processing, and reinforcement learning**. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
 
 Before joining UMBC, I worked on gesture decoding systems for prosthetics and interactive virtual environments. My work emphasizes synergy-driven analysis, multimodal control, and human-in-the-loop reinforcement learning.
 
