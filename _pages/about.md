@@ -123,14 +123,14 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   <div style="flex: 2 1 400px; min-width: 250px; font-size:0.8em">
 
     <p style="font-size: 0.9em; color: #555;">
-      <strong>Parthan Olikkal</strong>, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
-      <br>2024 – <em>IEEE Robotics and Biomimetics</em>
+      <strong>Parthan Olikkal</strong>, Dingyi Pei, Bharat Kashyap Karri, Ashwin Satyanarayana, Nayan M. Kakoty, Ramana Vinjamuri  
+      <br>2024 – <em>Frontiers Human Neuroscience</em>
     </p>
 
-    <h3 style="margin-top: 0;">A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers</h3>
+    <h3 style="margin-top: 0;">Biomimetic learning of hand gestures in a humanoid robot</h3>
 
     <p style="color: #555;font-style:0.8em">
-      This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
+      This study explores the use of kinematic synergies—low-dimensional movement patterns—for real-time humanoid robot hand gesture replication. Using MediaPipe and a single RGB camera, 33 static hand gestures were recorded and reduced to joint angular velocities. Dimensionality reduction identified synergies explaining 98% of movement variance. These synergies enabled accurate reconstruction (95.7% accuracy) of gestures using convex optimization, which were then mirrored by the humanoid robot Mitra. The findings highlight the effectiveness of synergy-based control for natural, efficient human-robot interaction and potential applications in rehabilitation and prosthetics.
     </p>
 
 <!-- Button Group -->
