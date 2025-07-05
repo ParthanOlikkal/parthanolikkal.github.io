@@ -55,7 +55,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ## Publications
 
-<a href="/publication/olikkal2024robio" style="text-decoration: none; color: inherit;">
+<a href="/publication/olikkal2024robio" style="text-decoration: none; color: inherit;" target="_blank">
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
             transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
