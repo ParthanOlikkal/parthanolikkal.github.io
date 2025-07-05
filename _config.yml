@@ -66,19 +66,24 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:polikka1@umbc.edu"
+
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/parthan-olikkal/"
+      url: "https://linkedin.com/in/yourhandle"
+
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?hl=en&user=A7I6gMgAAAAJ&view_op=list_works"
+      icon: "fas fa-graduation-cap"   # Workaround icon
+      url: "https://scholar.google.com/citations?user=your_id"
+
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/ParthanOlikkal"
+
     - label: "CV"
       icon: "fas fa-file-pdf"
       url: "/assets/docs/Parthan_CV.pdf"
 
+      
 defaults:
   - scope:
       path: ""
