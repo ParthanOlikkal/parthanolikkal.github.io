@@ -15,7 +15,10 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
 
 ---
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between;">
 
+<div style="flex: 1; min-width: 250px;">
+  
 ### Interests
 
 - Brain-Computer Interfaces (BCI)
@@ -24,6 +27,9 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 - Human-Robot Interaction
 - Motion & Synergy Analysis
 
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 ### Education
 
 - 🎓 **Ph.D. in Computer Science**
@@ -32,3 +38,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 -  *University of Maryland, Baltimore County*    _2019 – 2021_
 - 🎓 **B.Tech in Computer Science**
 -  *Cochin University of Science and Technology*  _2013 – 2017_
+
+  </div>
+
+</div>
