@@ -26,11 +26,8 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
 ### Education
 
-- 🎓 **Ph.D. in Computer Science** — *University of Maryland, Baltimore County*  
-  Advisor: Dr. Ramana Vinjamuri · _2021 – Present_
+- 🎓 **Ph.D. in Computer Science** — *University of Maryland, Baltimore County*  _2021 – Present_
+  Advisor: Dr. Ramana Vinjamuri 
+- 🎓 **M.S. in Computer Science** — *University of Maryland, Baltimore County*   _2019 – 2021_
 
-- 🎓 **M.S. in Computer Science** — *University of Maryland, Baltimore County*  
-  _2019 – 2021_
-
-- 🎓 **B.Tech in Computer Science** — *Cochin University of Science and Technology*  
-  _2013 – 2017_
+- 🎓 **B.Tech in Computer Science** — *Cochin University of Science and Technology*   _2013 – 2017_
