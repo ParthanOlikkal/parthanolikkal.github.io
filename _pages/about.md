@@ -57,7 +57,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 
   <!-- LEFT: Image -->
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/EEG-EMG.gif" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/images/EEG-EMG_Robot.jpg" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
   </div>
 
   <!-- RIGHT: Text -->
