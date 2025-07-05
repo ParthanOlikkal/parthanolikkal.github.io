@@ -32,12 +32,12 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 <div style="flex: 1; min-width: 250px;">
 ### Education
 
-- 🎓 **Ph.D. in Computer Science**
-- *University of Maryland, Baltimore County*    _2021 – Present_
-- 🎓 **M.S. in Computer Science**
--  *University of Maryland, Baltimore County*    _2019 – 2021_
-- 🎓 **B.Tech in Computer Science**
--  *Cochin University of Science and Technology*  _2013 – 2017_
+- 🎓 **Ph.D. in Computer Science**     _2021 – Present_
+- *University of Maryland, Baltimore County*    
+- 🎓 **M.S. in Computer Science**      _2019 – 2021_
+-  *University of Maryland, Baltimore County*
+- 🎓 **B.Tech in Computer Science**    _2013 – 2017_
+-  *Cochin University of Science and Technology* 
 
   </div>
 
