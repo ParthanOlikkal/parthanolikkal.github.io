@@ -65,7 +65,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   <!-- LEFT: Image -->
   <div style="flex: 1 1 300px; min-width: 250px;">
     <img src="/assets/images/EEG_EMG_Robot.png" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
-        <p style="color: #555;font-style:0.75em; font-style:italic">
+        <p style="color: #555; font-style:italic; font-size:0.75em">
     Key Areas - Multimodal Signal Processing, Deep Learning (Transformers), Robotics & Human-Robot Interaction
     </p>
   </div>
