@@ -30,6 +30,7 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
 </div>
 
 <div style="flex: 1; min-width: 250px;">
+  
 ### Education
 
 - 🎓 **Ph.D. in Computer Science**     _2021 – Present_
