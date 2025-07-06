@@ -14,11 +14,12 @@ sidebar:
 I am a Ph.D. Candidate at the <a href="https://umbc.edu/" target="_blank"><strong>University of Maryland Baltimore County</strong></a>, advised by <a href="https://www.csee.umbc.edu/ramana-vinjamuri/" target="_blank">Dr. Ramana Vinjamuri</a>. My research lies at the intersection of <strong>Brain-Computer Interfaces, Reinforcement Learning and Robotics </strong>. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
 </p>
 
-Before joining UMBC, I worked on gesture decoding systems for prosthetics and interactive virtual environments. My work emphasizes synergy-driven analysis, multimodal control, and human-in-the-loop reinforcement learning.
+In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> working with Parallel Code Generation Team. In Summer 2022, I interned at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> in Domain Specific Code Generation Team.
 </div>
 
+<div style="font-size:0.9em;>
 📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
-
+</div>
 
 <hr>
 
