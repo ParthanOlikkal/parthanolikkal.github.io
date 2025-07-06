@@ -170,6 +170,12 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   </div>
 </div>
 
+
+<div style="text-align: right; margin-top: 2rem; margin-bottom: 1rem;">
+  <a href="/publication/" style="font-weight: bold; text-decoration: underline; font-size: 1em; color: #007acc;">
+    → See full publications
+  </a>
+</div>
 ---
 
 <h2 id="projects">Projects</h2> 
