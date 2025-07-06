@@ -17,9 +17,9 @@ I am a Ph.D. Candidate at the <a href="https://umbc.edu/" target="_blank"><stron
 In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> working with Parallel Code Generation Team. In Summer 2022, I interned at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> in Domain Specific Code Generation Team.
 </div>
 
-<div style="font-size:0.9em;>
+<a style="font-size:0.9em;>
 📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
-</div>
+</a>
 
 <hr>
 
