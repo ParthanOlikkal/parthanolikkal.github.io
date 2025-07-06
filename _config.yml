@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ParthanOlikkal"
+  name   : "Parthan Olikkal"
   avatar : "/assets/images/Parthan_Pic.jpeg"
   bio    : "Ph.D. Candidate @ UMBC"
   location: "Baltimore, MD"
