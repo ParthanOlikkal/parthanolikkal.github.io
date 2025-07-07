@@ -8,7 +8,7 @@ sidebar:
   nav: false
 ---
 
-<h2>Journal Papers</h2>
+<h2>Journals</h2>
 
 <!-- Tile-style publication block -->
 <div style="display: flex; flex-direction: column; gap: 1rem;">
@@ -161,7 +161,7 @@ sidebar:
 </div>
 
 
-<h2>Conference Papers</h2>
+<h2>Conferences</h2>
 
 <!-- Tile-style publication block -->
 <div style="display: flex; flex-direction: column; gap: 1rem;">
@@ -305,3 +305,72 @@ sidebar:
   </div>
 
 </div>
+
+
+<h2>Book Chapters</h2>
+
+<!-- Tile-style publication block -->
+<div style="display: flex; flex-direction: column; gap: 1rem;">
+
+  <!-- Publication 1 -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 1px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
+    
+    <h3 style="margin-top: 0; font-size: 0.9em;">
+      Mental Health Management Through Wearables and AI Innovation
+    </h3>
+
+    <p style="margin: 0 0 0.3rem 0; color: #333;font-size: 0.8em;">
+      Akshara Ajendla, Mahi Patel, <strong>Parthan Olikkal</strong>, Ramana Vinjamuri
+    </p>
+
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.1rem;">
+      <em>Smart Healthcare, Clinical Diagnostics, and Bioprinting Solutions for Modern Medicine</em>, 2024
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
+    </div>
+  </div>
+  
+  <!-- Publication 2 -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 1px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
+    
+    <h3 style="margin-top: 0; font-size: 0.9em;">
+      New Horizons in Human–Robot Interaction: Synergy, Cognition, and Emotion
+    </h3>
+
+    <p style="margin: 0 0 0.3rem 0; color: #333;font-size: 0.8em;">
+      Farshad Safavi, Dingyi Pei, <strong>Parthan Olikkal</strong>, Ramana Vinjamuri
+    </p>
+
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.1rem;">
+      <em>Discovering the Frontiers of Human-Robot Interaction: Insights and Innovations in Collaboration, Communication, and Control</em>, 2024
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
+    </div>
+  </div>
+
+  <!-- Publication 3 -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 1px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
+    
+    <h3 style="margin-top: 0; font-size: 0.9em;">
+      Human-Robot Interaction–Advances and Applications
+    </h3>
+
+    <p style="margin: 0 0 0.3rem 0; color: #333;font-size: 0.8em;">
+      Helen Meyerson, <strong>Parthan Olikkal</strong>, Dingyi Pei, Ramana Vinjamuri
+    </p>
+
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.1rem;">
+      <em>Human-Robot Interaction-Perspectives and Applications</em>, 2024
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
+    </div>
+  </div>
