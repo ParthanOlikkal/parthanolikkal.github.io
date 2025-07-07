@@ -5,13 +5,16 @@ layout: single
 author_profile: true
 ---
 
-<h2>Journal Papers</h2>
+<h2>Journal & Conference Papers</h2>
 
 <!-- Publication Block -->
-<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem; background: #fafafa; font-size:0.9em; display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center;;">
-  <h2>Emerging frontiers in human-robot interaction</h2>
-  <h3>Farshad Safavi, <strong>Parthan Olikkal</strong>, Dingyi Pei, Sadia Kamal, Helen Meyerson, Varsha Penumalee, Ramana Vinjamuri</h3>
-  <em>Frontiers in Human Neuroscience</em>.
+<div style="margin-bottom: 2rem;">
+  <p>
+    📄 <strong>Parthan Olikkal</strong>, Ramana Vinjamuri (2024). 
+    <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/full" target="_blank">
+      Reinforcement Learning-Based Dance Therapy Using Multimodal BCI Signals
+    </a>. <em>Frontiers in Human Neuroscience</em>.
+  </p>
   
   <!-- Tag Buttons -->
   <div style="margin-top: 0.3rem; display: flex; flex-wrap: wrap; gap: 0.5rem;">
@@ -21,5 +24,3 @@ author_profile: true
     <a class="btn btn-outline-primary btn-sm" href="https://github.com/yourusername/project-repo" target="_blank">Code</a>
   </div>
 </div>
-
-<!-- Add more below using the same structure -->
