@@ -24,7 +24,7 @@ sidebar:
       <strong>Parthan Olikkal</strong>, Dingyi Pei, Bharat Kashyap Karri, Ashwin Satyanarayana, Nayan M Kakoty, Ramana Vinjamuri
     </p>
 
-    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.3rem;">
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.1rem;">
       <em>Frontiers in Human Neuroscience</em>, 2024
     </p>
 
