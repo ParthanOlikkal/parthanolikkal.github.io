@@ -41,7 +41,7 @@ sidebar:
   </div>
 
   <!-- Publication 2 -->
-  <div style="border: 1px solid #e0e0e0; border-radius: 3px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
+  <div style="border: 1px solid #e0e0e0; border-radius: 1px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
     
     <h3 style="margin-top: 0; font-size: 0.9em;">
       Biomimetic Learning of Hand Gestures in a Humanoid Robot
