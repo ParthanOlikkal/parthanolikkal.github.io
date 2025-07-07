@@ -8,7 +8,7 @@ author_profile: true
 <h2>Journal & Conference Papers</h2>
 
 <!-- Publication Block -->
-<div style="margin-bottom: 2rem;">
+<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem; background: #fafafa; font-size:0.9em; display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center;;">
   <p>
     📄 <strong>Parthan Olikkal</strong>, Ramana Vinjamuri (2024). 
     <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/full" target="_blank">
