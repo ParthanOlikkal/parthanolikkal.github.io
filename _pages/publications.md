@@ -16,9 +16,6 @@ sidebar:
   <!-- Publication 1 -->
   <div style="border: 1px solid #e0e0e0; border-radius: 0.1px; padding: 0.25rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
       <!-- Serial Number -->
-  <div style="min-width: 2rem; font-weight: bold; font-size: 0.95em; color: #333;">
-    6.
-  </div>
     <h3 style="margin-top: 0; font-size: 0.9em;">
       Biomimetic Learning of Hand Gestures in a Humanoid Robot
     </h3>
