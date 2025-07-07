@@ -84,7 +84,7 @@ author:
 collections:
   publications:
     output: true
-    permalink: /publication/:name/
+    permalink: /publications/:name/
 
 sass:
   style: compressed
