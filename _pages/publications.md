@@ -17,17 +17,17 @@ sidebar:
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 2rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
     
     <!-- Title -->
-    <h3 style="margin-top: 0; font-size: 1.3em;">
+    <h3 style="margin-top: 0; font-size: 0.9em;">
       Emerging Frontiers in Human-Robot Interaction
     </h3>
 
     <!-- Authors -->
-    <p style="margin: 0 0 0.3rem 0; color: #333;">
+    <p style="margin: 0 0 0.3rem 0; color: #333; font-size: 0.8em;">
       Farshad Safavi, <strong>Parthan Olikkal</strong>, Dingyi Pei, Sadia Kamal, Helen Meyerson, Varsha Penumalee, Ramana Vinjamuri
     </p>
 
     <!-- Journal -->
-    <p style="color: #777; font-size: 0.95em; margin-bottom: 1rem;">
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 1rem;">
       <em>Frontiers in Human Neuroscience</em>, 2024
     </p>
 
@@ -43,15 +43,15 @@ sidebar:
   <!-- Publication 2 -->
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 2rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
     
-    <h3 style="margin-top: 0; font-size: 1.3em;">
+    <h3 style="margin-top: 0; font-size: 0.9em;">
       Biomimetic Learning of Hand Gestures in a Humanoid Robot
     </h3>
 
-    <p style="margin: 0 0 0.3rem 0; color: #333;">
+    <p style="margin: 0 0 0.3rem 0; color: #333;font-size: 0.8em;">
       <strong>Parthan Olikkal</strong>, Dingyi Pei, Bharat Kashyap Karri, Ashwin Satyanarayana, Nayan M Kakoty, Ramana Vinjamuri
     </p>
 
-    <p style="color: #777; font-size: 0.95em; margin-bottom: 1rem;">
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 1rem;">
       <em>Frontiers in Human Neuroscience</em>, 2024
     </p>
 
@@ -66,15 +66,15 @@ sidebar:
   <!-- Publication 3 -->
   <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 2rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
     
-    <h3 style="margin-top: 0; font-size: 1.3em;">
+    <h3 style="margin-top: 0; font-size: 0.9em;">
       Reconstructing Synergy-Based Hand Grasp Kinematics from EEG Signals
     </h3>
 
-    <p style="margin: 0 0 0.3rem 0; color: #333;">
+    <p style="margin: 0 0 0.3rem 0; color: #333;font-size: 0.8em;">
       Dingyi Pei, <strong>Parthan Olikkal</strong>, Tülay Adali, Ramana Vinjamuri
     </p>
 
-    <p style="color: #777; font-size: 0.95em; margin-bottom: 1rem;">
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 1rem;">
       <em>Sensors</em>, 2022
     </p>
 
