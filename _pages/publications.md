@@ -22,17 +22,17 @@ sidebar:
     </h3>
 
     <!-- Authors -->
-    <p style="margin: 0 0 0.3rem 0; color: #333; font-size: 0.8em;">
+    <p style="margin: 0 0 0.2rem 0; color: #333; font-size: 0.8em;">
       Farshad Safavi, <strong>Parthan Olikkal</strong>, Dingyi Pei, Sadia Kamal, Helen Meyerson, Varsha Penumalee, Ramana Vinjamuri
     </p>
 
     <!-- Journal -->
-    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.5rem;">
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.3rem;">
       <em>Frontiers in Human Neuroscience</em>, 2024
     </p>
 
     <!-- Buttons -->
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.75em">
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
       <a class="btn btn-outline-primary btn-sm" href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/pdf" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="https://doi.org/10.3389/fnhum.2024.1391531" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/full#references" target="_blank">Cite</a>
@@ -51,7 +51,7 @@ sidebar:
       <strong>Parthan Olikkal</strong>, Dingyi Pei, Bharat Kashyap Karri, Ashwin Satyanarayana, Nayan M Kakoty, Ramana Vinjamuri
     </p>
 
-    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.5rem;">
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.3rem;">
       <em>Frontiers in Human Neuroscience</em>, 2024
     </p>
 
