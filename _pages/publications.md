@@ -63,9 +63,31 @@ sidebar:
     </div>
   </div>
 
-
-
   <!-- Publication 3 -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 3px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
+    
+    <h3 style="margin-top: 0; font-size: 0.9em;">
+      Enhancing prosthetic hand control: A synergistic multi-channel electroencephalogram
+    </h3>
+
+    <p style="margin: 0 0 0.3rem 0; color: #333;font-size: 0.8em;">
+      Pooya Chanu Maibam, Dingyi Pei, <strong>Parthan Olikkal</strong>, Ramana Kumar Vinjamuri, Nayan M Kakoty
+    </p>
+
+    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.5rem;">
+      <em>Sensors</em>, 2022
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
+      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
+    </div>
+  </div>
+
+
+  <!-- Publication 4 -->
   <div style="border: 1px solid #e0e0e0; border-radius: 3px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
     
     <h3 style="margin-top: 0; font-size: 0.9em;">
