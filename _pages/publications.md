@@ -11,7 +11,7 @@ sidebar:
 <h2>Journal Papers</h2>
 
 <!-- Tile-style publication block -->
-<div style="display: flex; flex-direction: column; gap: 2rem;">
+<div style="display: flex; flex-direction: column; gap: 1rem;">
   
   <!-- Publication 1 -->
   <div style="border: 1px solid #e0e0e0; border-radius: 1px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
