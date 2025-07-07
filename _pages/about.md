@@ -192,7 +192,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
   <!-- LEFT: Video -->
   <div style="flex: 1 1 350px; min-width: 300px;">
-    <img src="/assets/video/Mitra_Mirroring.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/video/Mitra_Mirrori.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
   </div>
 
   <!-- RIGHT: Text -->
