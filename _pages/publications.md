@@ -24,11 +24,11 @@ sidebar:
       <strong>Parthan Olikkal</strong>, Dingyi Pei, Bharat Kashyap Karri, Ashwin Satyanarayana, Nayan M Kakoty, Ramana Vinjamuri
     </p>
 
-    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.1rem;">
+    <p style="color: #777; font-size: 0.75em; margin: 0.1rem 0;;">
       <em>Frontiers in Human Neuroscience</em>, 2024
     </p>
 
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em; margin: 0.1rem 0 0 0;">
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
