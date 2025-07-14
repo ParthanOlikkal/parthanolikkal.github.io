@@ -86,6 +86,9 @@ collections:
     output: true
     permalink: /publications/:name/
 
+footer:
+  links: false
+
 sass:
   style: compressed
 
