@@ -14,3 +14,16 @@ html {
 .page__footer {
   display: none;
 }
+
+.author__urls-wrapper {
+  display: block !important;
+}
+
+.author__urls {
+  display: block !important;
+  max-height: none !important;
+}
+
+.author__urls-toggle {
+  display: none !important;
+}
