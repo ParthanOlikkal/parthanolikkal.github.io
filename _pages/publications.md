@@ -79,7 +79,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -103,7 +102,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -126,7 +124,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -149,7 +146,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -180,7 +176,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -203,7 +198,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -226,7 +220,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -249,7 +242,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -272,7 +264,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -295,7 +286,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
