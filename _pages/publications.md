@@ -29,7 +29,6 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em; margin: 0.05rem 0 0 0;">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">PDF</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Code</a>
@@ -39,7 +38,7 @@ sidebar:
   </div>
   
   <!-- Publication 2 -->
-  <div style="border: 1px solid #e0e0e0; border-radius: 1px; padding: 0.5rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
+  <div style="border: 1px solid #e0e0e0; border-radius: 0.1px; padding: 0.25rem; background: #fafafa; box-shadow: 0 4px 10px rgba(0,0,0,0.06); width: 100%;">
     
     <!-- Title -->
     <h3 style="margin-top: 0; font-size: 0.9em;">
@@ -47,18 +46,17 @@ sidebar:
     </h3>
 
     <!-- Authors -->
-    <p style="margin: 0 0 0.2rem 0; color: #333; font-size: 0.8em;">
+    <p style="margin: 0 0 0.3rem 0; color: #333; font-size: 0.8em;">
       Farshad Safavi, <strong>Parthan Olikkal</strong>, Dingyi Pei, Sadia Kamal, Helen Meyerson, Varsha Penumalee, Ramana Vinjamuri
     </p>
 
     <!-- Journal -->
-    <p style="color: #777; font-size: 0.75em; margin-bottom: 0.3rem;">
+    <p style="color: #777; font-size: 0.75em; margin: 0.05rem 0;">
       <em>Journal of Intelligent and Robotics System</em>, 2024
     </p>
 
     <!-- Buttons -->
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/pdf" target="_blank">PDF</a>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em; margin: 0.05rem 0 0 0;">
       <a class="btn btn-outline-primary btn-sm" href="https://doi.org/10.3389/fnhum.2024.1391531" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="https://www.frontiersin.org/articles/10.3389/fnhum.2024.1391531/full#references" target="_blank">Cite</a>
       <a class="btn btn-outline-primary btn-sm" href="https://github.com/yourusername/project-repo" target="_blank">Code</a>
