@@ -316,7 +316,7 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="10.4018/979-8-3373-0659-9.ch010" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
     </div>
   </div>
@@ -337,7 +337,7 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="https://doi.org/10.1007/978-3-031-66656-8_5" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
     </div>
   </div>
@@ -358,7 +358,7 @@ sidebar:
     </p>
 
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.8em">
-      <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">DOI</a>
+      <a class="btn btn-outline-primary btn-sm" href="10.5772/intechopen.109343" target="_blank">DOI</a>
       <a class="btn btn-outline-primary btn-sm" href="#" target="_blank">Cite</a>
     </div>
   </div>
