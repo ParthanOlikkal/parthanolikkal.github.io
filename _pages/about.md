@@ -210,7 +210,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
 </div>
 ---
-<h2> Contact</h2>
+<h2 id="contact"> Contact</h2>
 
 <div style="border: 1px solid #ddd; padding: 1rem 1.5rem; border-radius: 10px; background: #f9f9f9; display: flex; flex-direction: column; gap: 0.5rem; max-width: 400px;">
   
