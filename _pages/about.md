@@ -209,6 +209,14 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   </div>
 
 </div>
+---
+<h2 id="projects">Contact</h2> 
+
+Feel free to reach out if you're interested in collaboration or research discussions.
+
+- 📧 Email: [polikka1@umbc.edu](mailto:polikka1@umbc.edu)  
+- 🔗 DM on LinkedIn: [linkedin.com/in/parthan-olikkal](https://www.linkedin.com/in/parthan-olikkal)  
+
 
 <script>
 function openBibModal(bibURL, modalID) {
