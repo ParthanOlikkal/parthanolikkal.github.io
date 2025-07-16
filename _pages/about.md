@@ -210,14 +210,18 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
 </div>
 ---
-<h2>📬 Contact</h2>
-<div style="border: 1px solid #ddd; padding: 1rem; border-radius: 10px; background: #f9f9f9; display: inline-block;">
-  <a href="mailto:polikka1@umbc.edu" style="margin-right: 1.5rem;"title="Email Me">
-    Drop a mail <i class="fas fa-envelope" style="font-size: 1.4em;"></i>
+<h2> Contact</h2>
+
+<div style="border: 1px solid #ddd; padding: 1rem 1.5rem; border-radius: 10px; background: #f9f9f9; display: flex; flex-direction: column; gap: 0.5rem; max-width: 400px;">
+  
+  <a href="mailto:polikka1@umbc.edu" style="text-decoration: none; color: #333;" title="Email Me">
+    <i class="fas fa-envelope" style="margin-right: 0.5rem; color: #555;"></i> Drop a mail
   </a>
-  <a href="https://www.linkedin.com/in/parthan-olikkal" target="_blank" title="Visit my LinkedIn">
-    DM me <i class="fab fa-linkedin" style="font-size: 1.4em;"></i>
+
+  <a href="https://www.linkedin.com/in/parthan-olikkal" target="_blank" style="text-decoration: none; color: #0077b5;" title="Visit my LinkedIn">
+    <i class="fab fa-linkedin" style="margin-right: 0.5rem;"></i> DM me
   </a>
+
 </div>
 
 
