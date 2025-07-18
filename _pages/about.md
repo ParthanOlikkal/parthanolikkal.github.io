@@ -214,7 +214,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   <div style="flex: 1 1 350px; min-width: 300px; transition: transform 0.3s ease-in-out;">
     <img src="/assets/video/Left_Right_Game.gif" alt="RL Car Demo"
          style="width: 100%; border-radius: 8px; transition: transform 0.3s ease-in-out;"
-         onmouseover="this.style.transform='scale(1.1)'"
+         onmouseover="this.style.transform='scale(2)'"
          onmouseout="this.style.transform='scale(1)'">
   </div>
 
