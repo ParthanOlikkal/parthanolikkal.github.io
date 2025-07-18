@@ -203,6 +203,29 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   </div>
 
 </div>
+
+<h3 id="projects">Reinforcement Learning on Car Game</h3>  
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
+            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
+            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
+     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
+
+
+  <!-- LEFT: Video -->
+  <div style="flex: 1 1 350px; min-width: 300px;">
+    <img src="/assets/video/Mitra_Mirrori.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- RIGHT: Text -->
+  <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
+    <p>
+      Developed a custom framework that fuses MediaPipe Pose and Hand landmark models to extract 44 key body and hand coordinates from a single RGB camera. By capturing real-time flexion/extension of the elbow, shoulder, fingers, and wrist rotation, this system enables precise movement mapping onto the 22-DOF humanoid robot Mitra. This framework has been integrated into the Synergy-based Intuitive Virtual and Augmented Therapy for Mental Health (SIVAM) platform to support emotionally adaptive dance movement interventions.
+    </p>
+  </div>
+
+</div>
 ---
 <h2 id="contact"> Contact</h2>
 
