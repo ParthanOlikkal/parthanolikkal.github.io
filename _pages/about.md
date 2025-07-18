@@ -207,23 +207,33 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
 <h3 id="projects">Reinforcement Learning on Car Game</h3>  
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
+<div style="position: relative; display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
-            box-shadow: 0 0 0 transparent; overflow: hidden;">
+            overflow: hidden; transition: all 0.3s ease-in-out;"
+     onmouseover="this.querySelector('.hover-gif').style.opacity='1'; this.querySelector('.tile-text').style.opacity='0'"
+     onmouseout="this.querySelector('.hover-gif').style.opacity='0'; this.querySelector('.tile-text').style.opacity='1'">
 
-  <!-- LEFT: Video -->
-  <div style="flex: 1 1 350px; min-width: 300px; transition: transform 0.3s ease-in-out;">
-    <img src="/assets/video/Left_Right_Game.gif" alt="RL Car Demo"
-         style="width: 100%; border-radius: 8px; transition: transform 0.3s ease-in-out;"
-         onmouseover="this.style.transform='scale(2)'"
-         onmouseout="this.style.transform='scale(1)'">
+  <!-- Overlay Full GIF on Hover -->
+  <div class="hover-gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+                                background-color: #fafafa; display: flex; justify-content: center; align-items: center;
+                                z-index: 10; opacity: 0; transition: opacity 0.3s ease-in-out;">
+    <img src="/assets/video/Left_Right_Game.gif" alt="RL Car Demo" style="max-width: 100%; max-height: 100%; border-radius: 8px;">
   </div>
 
-  <!-- RIGHT: Text -->
-  <div style="flex: 2 1 400px; min-width: 250px;">
-    <p>
-     Developed a car-based obstacle avoidance game to explore reinforcement learning strategies. Randomly generated obstacles challenge the agent to survive for 30 seconds per episode. A Deep Q-Network (DQN) was trained, allowing the agent to explore freely for the first 80 games before gradually shifting to exploitation. Learning behavior emerged around 170 games, with convergence observed near 200 episodes. This environment laid the groundwork for future human-in-the-loop reinforcement learning experiments.
-    </p>
+  <!-- Visible Content (Text + Thumbnail) -->
+  <div class="tile-text" style="display: flex; flex: 1; flex-wrap: wrap; gap: 2rem; align-items: flex-start; opacity: 1; transition: opacity 0.3s ease-in-out;">
+    
+    <!-- LEFT: Thumbnail -->
+    <div style="flex: 1 1 350px; min-width: 300px;">
+      <img src="/assets/video/Left_Right_Game.gif" alt="RL Car Demo" style="width: 100%; border-radius: 8px;">
+    </div>
+
+    <!-- RIGHT: Text -->
+    <div style="flex: 2 1 400px; min-width: 250px;">
+      <p>
+       Developed a car-based obstacle avoidance game to explore reinforcement learning strategies. Randomly generated obstacles challenge the agent to survive for 30 seconds per episode. A Deep Q-Network (DQN) was trained, allowing the agent to explore freely for the first 80 games before gradually shifting to exploitation. Learning behavior emerged around 170 games, with convergence observed near 200 episodes. This environment laid the groundwork for future human-in-the-loop reinforcement learning experiments.
+      </p>
+    </div>
   </div>
 </div>
 
