@@ -77,9 +77,6 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/ParthanOlikkal"
 
-    - label: "CV"
-      icon: "fas fa-file-pdf"
-      url: "/assets/docs/Parthan_CV.pdf"
 
 collections:
   publications:
