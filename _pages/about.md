@@ -181,7 +181,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
 <h2 id="projects">Projects</h2> 
 
-<a id="projects" style="font-size: 0.8em;">Humanoid Control using RGB Camera</a>  
+<h4 id="projects" style="font-size: 0.8em;">Humanoid Control using RGB Camera</h4>  
 
 <div style="position: relative; display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
@@ -214,7 +214,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   </div>
 </div>
 
-<a id="projects" style="font-size: 0.8em;">Car Lane Navigation through Reinforcement Learning</a>  
+<h4 id="projects" style="font-size: 0.8em;">Car Lane Navigation through Reinforcement Learning</h4>  
 
 <div style="position: relative; display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
@@ -246,7 +246,6 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   </div>
 </div>
 
-</div>
 ---
 <h2 id="contact"> Contact</h2>
 
