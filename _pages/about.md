@@ -215,13 +215,13 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
   <!-- LEFT: Video -->
   <div style="flex: 1 1 350px; min-width: 300px;">
-    <img src="/assets/video/Mitra_Mirrori.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
+    <img src="/assets/video/Left_Right_Game.gif" alt="RL Car Demo" style="width: 100%; border-radius: 8px;">
   </div>
 
   <!-- RIGHT: Text -->
   <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
     <p>
-      Developed a custom framework that fuses MediaPipe Pose and Hand landmark models to extract 44 key body and hand coordinates from a single RGB camera. By capturing real-time flexion/extension of the elbow, shoulder, fingers, and wrist rotation, this system enables precise movement mapping onto the 22-DOF humanoid robot Mitra. This framework has been integrated into the Synergy-based Intuitive Virtual and Augmented Therapy for Mental Health (SIVAM) platform to support emotionally adaptive dance movement interventions.
+     Developed a car-based obstacle avoidance game to explore reinforcement learning strategies. Randomly generated obstacles challenge the agent to survive for 30 seconds per episode. A Deep Q-Network (DQN) was trained, allowing the agent to explore freely for the first 80 games before gradually shifting to exploitation. Learning behavior emerged around 170 games, with convergence observed near 200 episodes. This environment laid the groundwork for future human-in-the-loop reinforcement learning experiments.
     </p>
   </div>
 
