@@ -198,14 +198,8 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   <!-- RIGHT: Text -->
   <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
     <p>
-      This project demonstrates real-time synergy-based control of a humanoid robot (Mitra) using reconstructed hand gestures.
-      Using a single RGB camera and the MediaPipe framework, 33 static hand gestures were captured and processed into joint angular velocities.
-      Dimensionality reduction techniques helped extract key kinematic synergies, which were used to reconstruct hand postures with 95.7% accuracy.
+      Developed a custom framework that fuses MediaPipe Pose and Hand landmark models to extract 44 key body and hand coordinates from a single RGB camera. By capturing real-time flexion/extension of the elbow, shoulder, fingers, and wrist rotation, this system enables precise movement mapping onto the 22-DOF humanoid robot Mitra. This framework has been integrated into the Synergy-based Intuitive Virtual and Augmented Therapy for Mental Health (SIVAM) platform to support emotionally adaptive dance movement interventions.
     </p>
-    <p>
-      The resulting synergy-driven control commands were mapped to Mitra’s actuators in real time, showing promise for intuitive human-robot collaboration in rehabilitation and assistive robotics.
-    </p>
-
   </div>
 
 </div>
