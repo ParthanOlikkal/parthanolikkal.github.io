@@ -185,15 +185,16 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
-            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
-     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
-
+            box-shadow: 0 0 0 transparent; overflow: hidden;">
 
   <!-- LEFT: Video -->
-  <div style="flex: 1 1 350px; min-width: 300px;">
-    <img src="/assets/video/Mitra_Mirrori.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
+  <div style="flex: 1 1 350px; min-width: 300px; transition: transform 0.3s ease-in-out;">
+    <img src="/assets/video/Mitra_Mirrori.gif" alt="Robot Control"
+         style="width: 100%; border-radius: 8px; transition: transform 0.3s ease-in-out;"
+         onmouseover="this.style.transform='scale(2)'"
+         onmouseout="this.style.transform='scale(1)'">
   </div>
+
 
   <!-- RIGHT: Text -->
   <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
