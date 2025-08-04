@@ -32,7 +32,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
       <li>Reinforcement Learning</li>
       <li>EMG and EEG-based motor decoding</li>
       <li>Human-Robot Interaction</li>
-      <li>Motion & Synergy Analysis</li>
+      <li>Vision decoded dynamic motions</li>
     </ul>
   </div>
 
