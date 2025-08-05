@@ -181,6 +181,40 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 
 <h2 id="projects">Projects</h2> 
 
+<h4 id="projects" style="font-size: 0.8em;">Real-time Dexterous Hand Control with MediaPipe</h4>  
+
+<div style="position: relative; display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
+            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
+            overflow: hidden; transition: all 0.3s ease-in-out;"
+     onmouseover="this.querySelector('.hover-gif').style.opacity='1'; this.querySelector('.tile-text').style.opacity='0'"
+     onmouseout="this.querySelector('.hover-gif').style.opacity='0'; this.querySelector('.tile-text').style.opacity='1'">
+
+  <!-- Overlay Full GIF on Hover -->
+  <div class="hover-gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+                                background-color: #fafafa; display: flex; justify-content: center; align-items: center;
+                                z-index: 10; opacity: 0; transition: opacity 0.3s ease-in-out;">
+    <img src="/assets/video/Hand_Control.gif" alt="Hand Control" style="max-width: 100%; max-height: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- Text and Preview (Default View) -->
+  <div class="tile-text" style="display: flex; flex: 1; flex-wrap: wrap; gap: 2rem; align-items: flex-start; opacity: 1; transition: opacity 0.3s ease-in-out;">
+    
+    <!-- LEFT: Thumbnail -->
+    <div style="flex: 1 1 350px; min-width: 300px;">
+      <img src="/assets/video/Hand_Control.gif" alt="Hand Control" style="width: 100%; border-radius: 8px;">
+    </div>
+
+    <!-- RIGHT: Text -->
+    <div style="flex: 2 1 400px; min-width: 250px;">
+      <p>
+        Engineered a vision-based control system that transforms bare-hand gestures into seamless robotic motion using only an RGB camera. Leveraging MediaPipe’s 21-point hand tracking, the framework decodes real-time flexion, extension, and thumb articulation into 6-DOF joint commands. A custom mapping pipeline—featuring depth-aware gating—ensures clean separation between thumb adduction and flexion, eliminating cross-talk. Joint angles are scaled to actuator-ready values and streamed to a robotic hand with millisecond latency.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+
 <h4 id="projects" style="font-size: 0.8em;">Humanoid Control using RGB Camera</h4>  
 
 <div style="position: relative; display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
