@@ -200,7 +200,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
   <div class="tile-text" style="display: flex; flex: 1; flex-wrap: wrap; gap: 2rem; align-items: flex-start; opacity: 1; transition: opacity 0.3s ease-in-out;">
     
     <!-- LEFT: Thumbnail -->
-    <div style="flex: 1 1 250px; min-width: 200px;">
+    <div style="flex: 1 1 225px; min-width: 175px;">
       <img src="/assets/video/Hand_Control.gif" alt="Hand Control" style="width: 100%; border-radius: 8px;">
     </div>
 
