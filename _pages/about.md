@@ -18,7 +18,7 @@ In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.co
 </div>
 
 <a style="font-size: 0.9em;">
-  📄 Download my <strong><a href="/assets/doc/Parthan_CV.pdf">CV</a></strong>
+  📄 Download my <strong><a href="/assets/doc/Parthan_Olikkal_Resume.pdf">Resume</a></strong>
 </a>
 
 <hr>
